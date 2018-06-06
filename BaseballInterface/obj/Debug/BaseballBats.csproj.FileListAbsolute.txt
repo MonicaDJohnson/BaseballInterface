@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\BaseballInterface\BaseballInterface\bin\Debug\BaseballInterface.exe.config
+c:\users\wecancodeit\source\repos\BaseballInterface\BaseballInterface\bin\Debug\BaseballInterface.exe
+c:\users\wecancodeit\source\repos\BaseballInterface\BaseballInterface\bin\Debug\BaseballInterface.pdb
+c:\users\wecancodeit\source\repos\BaseballInterface\BaseballInterface\obj\Debug\BaseballBats.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\BaseballInterface\BaseballInterface\obj\Debug\BaseballBats.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\BaseballInterface\BaseballInterface\obj\Debug\BaseballInterface.exe
+c:\users\wecancodeit\source\repos\BaseballInterface\BaseballInterface\obj\Debug\BaseballInterface.pdb
